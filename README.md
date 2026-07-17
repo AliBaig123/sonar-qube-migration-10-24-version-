@@ -1,2 +1,3 @@
 SONAR QUBE MIGRATION WITH POSTGRESQL DATA BASE FROM VERSION 10 TO VERSION 24 
 
+https://docs.google.com/document/d/1e46Xte6mXQ4-zAFDq9gXDG01k3_vgEDqTmpF2wwcf-s/edit?tab=t.0
